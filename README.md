@@ -1,5 +1,6 @@
 # mt5-data-fmt
 
+[![CI](https://github.com/sergiogoqui-cpu/mt5-data-fmt/actions/workflows/ci.yml/badge.svg)](https://github.com/sergiogoqui-cpu/mt5-data-fmt/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![pandas](https://img.shields.io/badge/pandas-2%20%7C%203-150458?logo=pandas&logoColor=white)
